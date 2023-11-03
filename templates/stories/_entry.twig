@@ -1,0 +1,22 @@
+{% extends "index" %}
+
+{% set body_classes="inner-page" %}
+{% set pageTitle = entry.title %}
+{% set pageDescription = entry.shortDescription %}
+
+    {% block content %}
+        <article class="section">
+            <div class="content-column content-column--narrow">
+
+                <h1 class="centered">{{entry.title}}</h1>
+
+                <!-- Slider Component -->
+                {% include "components/slider" with{
+                    photos:entry.photos.all()
+                } %}
+
+                {{entry.richText}}
+                
+            </div>
+            </article>
+    {% endblock %}

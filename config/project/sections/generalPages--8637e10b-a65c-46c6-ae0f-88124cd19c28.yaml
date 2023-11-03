@@ -1,0 +1,15 @@
+defaultPlacement: end
+enableVersioning: true
+handle: generalPages
+name: 'General Pages'
+propagationMethod: all
+siteSettings:
+  148b99ca-50e0-4be3-9f95-942fcd12ecd5: # craftcms-tester
+    enabledByDefault: true
+    hasUrls: true
+    template: general.twig
+    uriFormat: '{parent.uri}/{slug}'
+structure:
+  maxLevels: 2
+  uid: f2770db1-91d1-491c-9e3e-3527677a4b49
+type: structure

@@ -1,0 +1,67 @@
+dateModified: 1698923800
+email:
+  fromEmail: shabab.ahmed.sebpo@gmail.com
+  fromName: craftcms-tester
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uploads:
+    hasUrls: true
+    name: Uploads
+    settings:
+      path: '@webroot/uploads'
+    type: craft\fs\Local
+    url: '@web/uploads/'
+meta:
+  __names__:
+    1c1ae85e-29f6-40bc-8a05-89a093d8ca85: Stories # Stories
+    3e96d424-e122-43a7-b165-947f2048a8dc: 'Riders Intro Content' # Riders Intro Content
+    4aa3edd5-8bfc-42ba-b540-5de6dd750eb5: Riders # Riders
+    5d056ada-9050-4fa7-b99b-250e724ea0c0: Home # Home
+    5e9b40b0-1a44-47f7-b5d4-c066ca3997f0: 'Home Page' # Home Page
+    5fe4002f-d114-49ac-8f0b-a11ce693adf8: Photos # Photos
+    6c5fe6b4-7112-4ff5-9ee6-e21e3af136d7: Link # Link
+    06df8f08-c36e-4694-9fea-74644bd6bc95: Stories # Stories
+    9e4f26cd-50d4-42bd-a96b-cd15990d3d4a: 'Content Image' # Content Image
+    12fd8f94-4f72-4f80-9b8d-a6d1d7661cd1: Header # Header
+    21d8fb85-0963-468e-825f-e3f7c3dfe1c6: 'Rich Text' # Rich Text
+    45ce135a-7b3d-4781-9fb3-ad2c8d13c7e2: Slider # Slider
+    63bff4e7-9b7b-4266-98f0-5c2c8cf3463e: Footer # Footer
+    69ceb33c-81af-4e98-8d55-c771ce31963c: 'Stories Listing' # Stories Listing
+    84d2f1ab-d6ba-41a8-beff-466dea3da3ac: 'Link Destination' # Link Destination
+    91e43bf0-87e7-41d0-86a2-2576d7217b4f: Common # Common
+    148b99ca-50e0-4be3-9f95-942fcd12ecd5: craftcms-tester # craftcms-tester
+    686eab3b-dd97-4e17-8b37-2bf780e69060: 'Stories Listing' # Stories Listing
+    787bd09d-39b1-435d-b43c-5b97562dd88f: 'Link Text' # Link Text
+    843a6afc-942f-4fcd-9d44-5980e23622ee: Description # Description
+    2676e5cd-afc3-4cb6-b35e-982c0e4f5458: Home # Home
+    03032ea8-b23a-4b51-966a-ee4c850c423c: 'Hero Image' # Hero Image
+    8637e10b-a65c-46c6-ae0f-88124cd19c28: 'General Pages' # General Pages
+    9361d4cf-aab0-46e9-b6b7-c2bc91059832: Photo # Photo
+    82052d4c-990d-4680-9996-93fd7fbcf208: 'Short Description' # Short Description
+    a1db3681-340f-4c30-8cc1-80f75af4d3b8: craftcms-tester # craftcms-tester
+    a25d5806-91e4-4856-9334-d2e03ee8d82e: 'Nav Links' # Nav Links
+    aca62faf-a4c1-4a4c-b268-77f06ac032d4: Hero # Hero
+    bb63441f-923a-4a2c-8513-35dd5af4bb11: 'Featured Story' # Featured Story
+    bc5fbe1b-101b-474a-a837-84bea84bb449: Rider # Rider
+    c14fd7bd-dfe5-4f91-88fd-80d48d3136cf: Avatar # Avatar
+    daaf24e3-3156-4fbf-8ea6-3d4f55657051: 'Hero Title' # Hero Title
+    dcf144ae-03ec-4cc6-8697-62618324cfbf: 'General Pages' # General Pages
+    e2e255b6-f8af-4884-acb4-9a0c9ecd803d: Uploads # Uploads
+    f6647277-94f6-4b5c-a69c-869e61bc7cb0: 'Full Name' # Full Name
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+system:
+  edition: solo
+  live: true
+  name: craftcms-tester
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

@@ -1,0 +1,19 @@
+columnSuffix: ntfaxqxc
+contentColumnType: text
+fieldGroup: 91e43bf0-87e7-41d0-86a2-2576d7217b4f # Common
+handle: shortDescription
+instructions: null
+name: 'Short Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 3
+  multiline: true
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,27 @@
+columnSuffix: itbksfam
+contentColumnType: text
+fieldGroup: 5e9b40b0-1a44-47f7-b5d4-c066ca3997f0 # Home Page
+handle: ridersIntroContent
+instructions: null
+name: 'Riders Intro Content'
+searchable: false
+settings:
+  availableTransforms: ''
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field

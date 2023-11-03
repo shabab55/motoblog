@@ -1,0 +1,46 @@
+fieldLayouts:
+  20168f72-ab65-40c3-be4f-b20d1412e8c2:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: fefe644c-aa3d-4195-8925-0200ebe1fed4
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 71ee59be-da4b-4fad-9453-035cb29c8dc5
+        userCondition: null
+handle: storiesListing
+hasTitleField: true
+name: 'Stories Listing'
+section: 69ceb33c-81af-4e98-8d55-c771ce31963c # Stories Listing
+showStatusField: false
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: '{section.name|raw}'
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

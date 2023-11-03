@@ -1,0 +1,27 @@
+columnSuffix: alcbujfw
+contentColumnType: text
+fieldGroup: 91e43bf0-87e7-41d0-86a2-2576d7217b4f # Common
+handle: richText
+instructions: null
+name: 'Rich Text'
+searchable: false
+settings:
+  availableTransforms: ''
+  availableVolumes: '*'
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: 9e4f26cd-50d4-42bd-a96b-cd15990d3d4a # Content Image
+  manualConfig: ''
+  purifierConfig: null
+  purifyHtml: true
+  redactorConfig: null
+  removeEmptyTags: false
+  removeInlineStyles: false
+  removeNbsp: false
+  showHtmlButtonForNonAdmins: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field
